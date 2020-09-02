@@ -1,5 +1,5 @@
 # Realtime Chat Application
-
+[![Run on Repl.it](https://repl.it/badge/github/DevPreston1/project_chat_application)](https://repl.it/github/DevPreston1/project_chat_application)
 ### [Live Site](https://realtime-chat-application.netlify.com)
 
 ![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
